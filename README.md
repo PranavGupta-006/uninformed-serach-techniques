@@ -8,4 +8,4 @@ In this GitHub Repo I explore Uninformed Search Techniques such as:
   5)Backward Search
   6)DFS
 
-using the 4-3 2L Water Jug Problem in Python 3
+using the 4-3 2L Water Jug Problem in Python 3.
