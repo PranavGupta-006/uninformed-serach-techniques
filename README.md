@@ -1,11 +1,12 @@
-# uninformed-serach-techniques
+# Uninformed Search Techniques – Water Jug Problem (4-3 2L)
 
-In this GitHub Repo I explore Uninformed Search Techniques such as:
-  -1)BFS
-  -2)DFS
-  -3)UFS(Dijkstra)
-  -4)Iterative Deep Search
-  -5)Backward Search
-  -6)DFS
+In this GitHub repo, I explore the following **Uninformed Search Techniques**:
 
-using the 4-3 2L Water Jug Problem in Python 3.
+1. **BFS** (Breadth-First Search)  
+2. **DFS** (Depth-First Search)  
+3. **UFS / Dijkstra’s Algorithm**  
+4. **Iterative Deepening Search (IDS)**  
+5. **Backward Search**  
+6. **Depth-Limited DFS**
+
+All algorithms are implemented in **Python 3** using the classic **4-3-2 Liter Water Jug Problem**.
