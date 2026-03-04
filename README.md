@@ -10,3 +10,13 @@ In this GitHub repo, I explore the following **Uninformed Search Techniques**:
 6. **Depth-Limited DFS**
 
 All algorithms are implemented in **Python 3** using the classic **4-3-2 Liter Water Jug Problem**.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+# Requirements
+
+1. Python3
+
+# Run command
+
+1. python3 "filename".py
